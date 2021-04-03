@@ -16,4 +16,15 @@ https://www.infoworld.com/article/3398696/what-is-natural-language-processing-ai
 https://www.youtube.com/watch?v=tM64DzwUQ9g
 https://www.youtube.com/watch?v=3SCivTVgFZs
 
+
+Fazer uma rede neural para identificar pedofilia cibernética -> considerar idade, sexo, localização? e palavras chave -> fazer vídeo pro José Samuel ptoduções?
+
+fazer um modo de salvar o treinamento da IA, salvar valores num json?
+
+treinamento é ler jsons
+
+documentar isso pra tcc ou uso do PE
+
+IA como extensão do navegador que identifica textos da página como ofensivos e envia email para os pais caso apareça um texto ou a criança entre em sites suspeitos, como Omegle
+
 ## Leonardo Zanotti
